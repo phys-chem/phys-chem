@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jialu Chen</title>
+    <link>https://phys-chem.github.io/</link>
+      <atom:link href="https://phys-chem.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jialu Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022</copyright>
+    <image>
+      <url>https://phys-chem.github.io/img/banner_knot.jpg</url>
+      <title>Jialu Chen</title>
+      <link>https://phys-chem.github.io/</link>
+    </image>
+    
+  </channel>
+</rss>
